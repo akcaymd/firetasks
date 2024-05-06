@@ -1,5 +1,5 @@
 /node_modules
 .prettierrc
-dist/main.js
-dist/main.js.LICENSE.txt
+/dist/main.js
+/dist/main.js.LICENSE.txt
 .env
